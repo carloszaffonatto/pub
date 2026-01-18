@@ -1,4 +1,0 @@
-# crontab -e
-
-# Reboot Alert
-@reboot /usr/bin/curl "https://URL/message?token=TOKEN" -F "title=Server started" -F "message=Server just booted up" -F "priority=5"
