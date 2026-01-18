@@ -32,3 +32,4 @@ pub/
 ├── 📂 packer-builds                   # Multi-platform image automation
 ├── 📂 packer-terraform-vmware         # Hybrid-cloud orchestration
 └── 📂 packer-vsphere-iso-windows      # Automated Windows Server lifecycle
+└── 📂 terraform-tuesdays              # ned1313/terraform-tuesdays
